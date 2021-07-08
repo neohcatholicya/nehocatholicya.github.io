@@ -1,2 +1,2 @@
-# nehocatholicya.github.io
+# neohcatholicya.github.io
 GitHub Pages Site
